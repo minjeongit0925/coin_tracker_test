@@ -1,3 +1,13 @@
+# Coin Tracker
+
+코인 시세를 보여주는 API와 연결하여, 원하는 코인을 선택하면 달러와 코인 사이의 가격을 알려준다.
+
+![image](https://user-images.githubusercontent.com/99471761/200722778-86a5516f-8d8a-4e12-9e56-7c92ec039014.png)
+
+→ 예시 화면
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
